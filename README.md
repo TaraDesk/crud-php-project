@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple yet robust CRUD (Create, Read, Update, Delete) application built with PHP and styled using [Tailwind CSS](https://tailwindcss.com/). The project serves as a starting point for developers looking to build modern and responsive web applications using PHP for backend logic and Tailwind CSS for the frontend interface.
+This is a simple yet robust CRUD (Create, Read, Update, Delete) application built with PHP and styled using [Tailwind CSS](https://tailwindcss.com/). 
 
 ## Features
 
